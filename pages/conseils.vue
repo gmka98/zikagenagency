@@ -1,7 +1,7 @@
 <template>
     <section class="xl:max-w-screen-lg mx-auto">
-        <div class="grid grid-cols-1 mt-20 gap-10">
-            <h1 class="text-5xl underline font-semibold">7 conseils pour faire une bonne campagne marketing sur les
+        <div class="grid grid-cols-1 mt-5 gap-10">
+            <h1 class="text-5xl underline font-semibold text-center">7 conseils pour faire une bonne campagne marketing sur les
                 réseaux en 2025
             </h1>
             <img src="~~/public/lesphotosdusite/conseil.jpg" alt="conseils" class="w-full  object-fill rounded-md border border-2 border-black" />
@@ -22,6 +22,7 @@
 <script setup>
 const tips = [
   {
+    
     title: "Optimisez votre visibilité grâce au SEO",
     description: "Assurez-vous que vos publications, descriptions et contenus intègrent des mots-clés stratégiques. Un bon référencement naturel booste votre présence en ligne et attire du trafic qualifié, même sur vos profils sociaux."
   },

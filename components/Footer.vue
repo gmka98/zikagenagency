@@ -5,7 +5,7 @@
 			<div class="lg:w-1/3">
 				<a rel="noopener noreferrer" href="#" class="flex justify-center space-x-3 lg:justify-start">
 					<div class="flex items-center justify-center w-12 h-12 ">
-						<img class="rounded-full border-gray-300" src="~/assets/logo.png" />
+						<img class="rounded-full " src="~/assets/logo.jpeg" />
 					</div>
 					<span class="self-center text-2xl font-semibold">Zikagen Agency</span>
 				</a>

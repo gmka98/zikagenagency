@@ -9,5 +9,10 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ['@nuxt/image']
+  modules: ['@nuxt/image', '@nuxt/icon'],
+  icon: {
+    serverBundle: {
+      collections: ['uil','mdi'],
+    }
+  }
 })

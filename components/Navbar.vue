@@ -1,12 +1,15 @@
 
 
 <template>
-    <nav class="mt-2  xl:max-w-screen-lg mx-auto ">
+    <nav class="mt-2  xl:max-w-screen-lg mx-auto  ">
         <div class="flex justify-between items-center ">
             <div class="flex items-center gap-1">
-                <img src="~/assets/logo.png" class="h-9"/>
-                <h1 class="capitalize text-2xl font-bold">Zikangen agency
-                </h1>
+                <div class="items-center">
+                    <img src="~/assets/logo_slogan.jpeg" class="h-12"/>
+                </div>
+                <div>
+                </div>
+                
             </div>
             
             <div>

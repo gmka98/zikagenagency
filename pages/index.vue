@@ -21,7 +21,7 @@
       </div>
       
     </div>
-    <div class="  rounded-md mt-4">
+    <div class="  rounded-md mb-4">
     <ul class="mx-auto  flex justify-between items-center ">
         <li class="mt-10 mx-10" v-for="(sponsor, index) in sponsors" :key="index">
           <img :src="sponsor.logo" :alt="sponsor.name" class=" h-20 object-contain border rounded-full"   />
