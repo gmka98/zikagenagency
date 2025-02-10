@@ -9,10 +9,15 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ['@nuxt/image', '@nuxt/icon'],
+  modules: ['@nuxt/image', '@nuxt/icon', '@nuxtjs/google-fonts'],
   icon: {
     serverBundle: {
       collections: ['uil','mdi'],
     }
-  }
+  },
+  googleFonts: {
+    families: {
+      Triodion: [400, 700],
+    },
+  },
 })

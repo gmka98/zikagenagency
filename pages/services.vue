@@ -1,5 +1,5 @@
 <template>
-    <section class="xl:max-w-screen-lg mx-auto">
+    <section class="xl:max-w-screen-lg mx-auto mb-8">
         <h1 
             class="bg-center bg-no-repeat bg-[url('~~/public/lesphotosdusite/services.jpg')] bg-gray-700 bg-blend-multiply 
                    text-4xl text-center font-semibold capitalize py-6  mt-5 text-white"
@@ -24,7 +24,7 @@
             </dl>
         </div>
         
-        <p class="text-center mt-10">
+        <p class="text-center text-4xl mt-10 mb-5">
             Nous vous accompagnons à chaque étape, avec une approche personnalisée et une expertise dédiée à votre réussite.
         </p>
         <img src="~~/public/lesphotosdusite/services.jpg" />

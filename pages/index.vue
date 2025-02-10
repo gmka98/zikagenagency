@@ -2,10 +2,10 @@
   <section class="mt-10 xl:max-w-screen-lg mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-2 mt-10  items-center">
       <div class="">
-        <p class="text-5xl font-bold">Mettez votre art en 
+        <p class="text-5xl font-serif font-bold">Mettez votre art en 
           lumière avec
         </p>
-        <h1 class="text-5xl font-bold">ZIKAGEN AGENCY</h1>
+        <h1 class="text-5xl font-triodion font-serif font-bold">ZIKAGEN AGENCY</h1>
         <blockquote class="mt-4">
           Zikagen est une agence de marketing spécialisé dans le domaine digitale pour
           accompagner les photographe, les vidéastes à augmenter leur visibilité.

@@ -10,7 +10,7 @@ import Navbar from '~/components/Navbar.vue';
 
           <div class="">
             <p class="text-gray-400 font-bold">A Propos</p>
-          <p class="text-3xl font-bold capitalize mb-4">
+          <p class="text-3xl font-bold capitalize font-serif mb-4">
             une agence crée pour transformer vos projets en véritables succès.
           </p>
           <hr class="mr-80 border-t-4 mb-4 border-yellow-500"/>
@@ -35,7 +35,7 @@ import Navbar from '~/components/Navbar.vue';
         </div>
       <div class="col-span-3">
         <p class="text-gray-400 font-bold mt-6 mb-2">Notre mission </p>
-        <p class="text-4xl font-bold mb-8">
+        <p class="text-4xl font-bold font-serif mb-8">
           Vous accompagnez à chaque étape de votre projet
         </p>
         <hr class="mr-80 border-t-4 mb-4 border-yellow-500"/>
@@ -55,7 +55,7 @@ import Navbar from '~/components/Navbar.vue';
       </div>
       
       <div class="col-span-3">
-          <p class="capitalize text-7xl mb-6 font-bold"> 
+          <p class="capitalize font-serif text-7xl mb-6 font-bold"> 
             Pourquoi nous choisir ?
           </p>
           <p class="mb-4 text-lg">

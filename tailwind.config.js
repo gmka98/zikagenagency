@@ -8,6 +8,9 @@ export default {
     "./app.vue",
     "./error.vue",
   ],
+  fontFamily: {
+    triodion: ['Triodion', 'sans-serif'],
+  },
     theme: {
       screens: {
         'sm': '640px',
